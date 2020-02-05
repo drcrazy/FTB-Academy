@@ -1,8 +1,10 @@
-FTB Academy Testing
+Fork for FTB Academy translation
 
-Issues with the modpack as a whole should go in the [Issues page](https://github.com/FTBTeam/FTB-Academy/issues).
+Translation happens here: https://crowdin.com/project/ftba
 
-Translators can submit Pull Requests [here](https://github.com/FTBTeam/FTB-Academy/pulls).
+<FORK>\master to sync with upstream
+<FORK>\integration to sync with crowdin
+
 
 To translate the quests, make a new lang file in the format of your language (Spanish would be `es_es.lang`, for instance), copy the contents of en_us.lang, and translate it to language. Lang files are in `/resources/assets/lang/`
 
