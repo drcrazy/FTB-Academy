@@ -56,8 +56,8 @@ academy.elevators.rewards=Aufzüge
 academy.meats.rewards=Fleisch
 academy.rangeaddons.rewards=Reichweitenverbesserungen
 academy.drillaugments.rewards=Bohrerverbesserungen
-academy.coins.rewards=Coins
-academy.jetpacktrails.rewards=Jetpack Trails
+academy.coins.rewards=Münzen
+academy.jetpacktrails.rewards=Jetpack-Spuren
 
 academy.swordenchants1.rewards=Schwertverzauberungen 1
 academy.looting1.reward=Plünderung II
@@ -135,7 +135,7 @@ academy.pinklens.reward=Heilung
 academy.bluelens.reward=Schub
 academy.purplelens.reward=Spektral
 
-academy.monsterspawneggs.rewards=Monster Spawn Eggs
+academy.monsterspawneggs.rewards=Monster Spawn Eier
 
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
 
@@ -344,13 +344,13 @@ academy.smeltery.text1=Die Schmelzerei erlaubt dir, Metalle zu schmelzen, damit 
 academy.smeltery.text2=Diese Blöcke werden benötigt, um eine Schmelzerei mit einem internen Speicher von 9 Blöcken zu bauen. Du musst alle 18 versengten Ziegel zugleich im Inventar haben\!
 
 academy.ticoncasts.title=Molten Metal Manipulation
-academy.ticoncasts.desc=Make one of each kind of Cast
-academy.ticoncasts.text1=Now that you have a Smeltery, you need a way to actually use the molten metals.
-academy.ticoncasts.text2=Metal tool parts are made by pouring molten metal into a Cast, which is made by pouring either Molten Clay or Gold onto a tool part.
-academy.ticoncasts.text3=Clay Casts are much cheaper but get destroyed after one use. You would want to use these for tool parts you only want to make a small amount of.
-academy.ticoncasts.text4=Gold (or Aluminum Brass) Casts are more expensive, but never break. This is especially useful for Ingot Casts. 
-academy.ticoncasts.task1=Any Clay Cast
-academy.ticoncasts.task2=Any regular Cast
+academy.ticoncasts.desc=Erstelle eins von jeder Art von Abdruck
+academy.ticoncasts.text1=Jetzt, da du eine Schmelze besitzt, brauchst du einen Weg um die geschmolzenen Metalle überhaupt nutzen zu können.
+academy.ticoncasts.text2=Metall-Werkzeug-Teile werden durch das Gießen von geschmolzenem Metall in einen Abdruck hergestellt, die man bekommt, indem man entweder geschmolzenen Ton oder Gold in auf ein Werkzeug-Teil gießt.
+academy.ticoncasts.text3=Ton Abdrücke sind viel günstiger, gehen aber nach dem ersten Gebrauch kaputt. Du möchtest dies für Werkzeug-Teile benutzen von den du nur wenig machen willst.
+academy.ticoncasts.text4=Gold (oder Aluminium Brass) Abdrücke sind teurer, werden aber nie kaputt gehen. Dies ist besonders nützlich für Barren Abdrücke.
+academy.ticoncasts.task1=Beliebiger Ton Abdruck
+academy.ticoncasts.task2=Beliebiger normaler Abdruck
 
 academy.pickaxe.title=Ab in die Mine\!
 academy.pickaxe.desc=Stelle eine Tinkers' Construct-Spitzhacke her
@@ -425,7 +425,7 @@ academy.simplybackpacks.desc=Stelle einen Rucksack her
 academy.simplybackpacks.text1=Rucksäcke speichern Items in deren Inventar, wobei höhere Stufen mehr speichern können.
 academy.simplybackpacks.text2=Es gibt eine optionale Taste, mit der du den Rucksack öffnen kannst, wenn er nur in deinem Inventar ist. Das "Bauble"-Inventar, auf welches du über den kleinen Ring in der rechts-oberen Ecke deines Spielerportaraits zugreifen kannst, ist dabei auch gültig.
 academy.simplybackpacks.text3=Es gibt eine weitere optionale Taste, mit der du einstellen kannst, ob aufgesammelte Items direkt im Rucksack gespeichert werden sollen. Du kannst mit dem Rucksack SHIFT + Rechtsklicken (oder ggf. Sneak + Rechtsklicken), um eine "Whitelist" oder eine "Blacklist" dafür einzustellen.
-academy.simplybackpacks.task=Any Backpack
+academy.simplybackpacks.task=Jeder Rucksack
 
 academy.claimchunk.title=Runter von meinem Rasen\!
 academy.claimchunk.desc=Beanspruche einen Chunk (16x16 Blöcke) für dich
