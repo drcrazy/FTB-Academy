@@ -3,26 +3,26 @@
 # Chapters
 
 academy.gettingstarted.title=Getting Started
-academy.building.title=Building
+academy.building.title=建築
 
-academy.basics.title=基礎
+academy.basics.title=基本
 
-academy.mainmagic.title=Magic
-academy.botania.title=Botania
-academy.twilightforest.title=Twilight Forest
-academy.astralsorcery.title=Astral Sorcery
+academy.mainmagic.title=魔法
+academy.botania.title=ボタニア
+academy.twilightforest.title=黄昏の森
+academy.astralsorcery.title=アストラル・ソーサリー
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.transportation.title=Transportation
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=ストレージ
+academy.storage1.title=基本ストレージ
+academy.transportation.title=輸送
+academy.refinedstorage1.title=Refined Storage - 初級
+academy.refinedstorage2.title=Refined Storage - 高級
+academy.refinedstorage3.title=Refined Storage - 専門家
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=技術
+academy.technology1.title=技術 - 初級
+academy.technology2.title=技術 - 高級
+academy.technology3.title=技術 - 専門家
 
 academy.misc.title=Miscellaneous Quests
 
@@ -34,17 +34,17 @@ academy.ticonmodifiers.rewards=TiCon Modifiers
 academy.ticonmodifiers.lapisreward=Fortune modifier
 academy.ticonmodifiers.redstonereward=Speed modifier
 
-academy.ores.rewards=Ores
+academy.ores.rewards=鉱石
 academy.mysticalpetals.rewards=Mystical Petals
 academy.mobmasher.rewards=Mob Masher Modifiers
 academy.manamats.rewards=Mana Materials
 academy.elfmats.rewards=Elven Materials
-academy.ingots.rewards=Ingots
+academy.ingots.rewards=インゴット
 academy.scepters.rewards=Scepters
 academy.TFfirethings.rewards=Fire Thingies
-academy.fluiducts.rewards=Fluiducts
-academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
+academy.fluiducts.rewards=フルーイダクト
+academy.itemducts.rewards=アイテムダクト
+academy.iflenses.rewards=レーザーレンズ
 academy.passivemobs.rewards=Passive Mobs
 academy.impulseitemducts.rewards=Impulse Itemducts
 academy.signalumitemducts.rewards=Signalum-Plated Itemducts
@@ -52,59 +52,59 @@ academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
 academy.hardenedfluiducts.rewards=Hardened Fluiducts
 academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
 academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
-academy.meats.rewards=Meats
-academy.rangeaddons.rewards=Range Addons
+academy.elevators.rewards=エレベーター
+academy.meats.rewards=肉
+academy.rangeaddons.rewards=範囲アドオン
 academy.drillaugments.rewards=Drill Augments
 academy.coins.rewards=Coins
 academy.jetpacktrails.rewards=Jetpack Trails
 
 academy.swordenchants1.rewards=Sword Enchants 1
-academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
+academy.looting1.reward=ドロップ増加 Ⅱ
+academy.sharpness1.reward=ダメージ増加 Ⅲ
 academy.reaper1.reward=Reaper II
 
 academy.swordenchants2.rewards=Sword Enchants 2
-academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
+academy.looting2.reward=ドロップ増加 Ⅳ
+academy.sharpness2.reward=ダメージ増加 Ⅵ
 academy.reaper2.reward=Reaper V
 
 academy.bowenchants1.rewards=Bow Enchants 1
-academy.power1.reward=Power III
-academy.punch1.reward=Punch I
+academy.power1.reward=射撃ダメージ増加 Ⅲ
+academy.punch1.reward=パンチ Ⅰ
 
 academy.bowenchants2.rewards=Bow Enchants 2
-academy.power2.reward=Power VI
-academy.punch2.reward=Punch III
+academy.power2.reward=射撃ダメージ増加 Ⅵ
+academy.punch2.reward=パンチ Ⅲ
 
 academy.helmenchants.rewards=Helmet Enchants
 academy.chestenchants.rewards=Chestplate Enchants
 academy.legenchants.rewards=Legging Enchants
 academy.bootenchants.rewards=Boot Enchants
 
-academy.depthstr1.reward=Depth Strider II
-academy.feathfall1.reward=Feather Falling IV
-academy.frostwalk1.reward=Frost Walker
+academy.depthstr1.reward=水中歩行 Ⅱ
+academy.feathfall1.reward=落下耐性 Ⅳ
+academy.frostwalk1.reward=氷渡り
 
-academy.aquaaffin1.reward=Aqua Affinity
-academy.resp1.reward=Respiration II
+academy.aquaaffin1.reward=水中採掘
+academy.resp1.reward=水中呼吸 Ⅱ
 
-academy.prot1.reward=Protection II
-academy.fireprot1.reward=Fire Protection III
-academy.blastprot1.reward=Blast Protection III
-academy.projprot1.reward=Projectile Protection III
-academy.thorns1.reward=Thorns II
+academy.prot1.reward=ダメージ軽減 Ⅱ
+academy.fireprot1.reward=火炎耐性 Ⅲ
+academy.blastprot1.reward=爆発耐性 Ⅲ
+academy.projprot1.reward=飛び道具耐性 Ⅲ
+academy.thorns1.reward=棘の鎧 Ⅱ
 
-academy.prot2.reward=Protection IV
-academy.fireprot2.reward=Fire Protection V
-academy.blastprot2.reward=Blast Protection V
-academy.projprot2.reward=Projectile Protection V
-academy.thorns2.reward=Thorns IV
+academy.prot2.reward=ダメージ軽減 Ⅳ
+academy.fireprot2.reward=火炎耐性 Ⅴ
+academy.blastprot2.reward=爆発耐性 Ⅴ
+academy.projprot2.reward=飛び道具耐性 Ⅴ
+academy.thorns2.reward=棘の鎧 Ⅳ
 
-academy.depthstr2.reward=Depth Strider IV
-academy.frostwalk2.reward=Frost Walker III
+academy.depthstr2.reward=水中歩行 Ⅳ
+academy.frostwalk2.reward=氷渡り Ⅲ
 
-academy.brightconstellations.rewards=Bright Constellations
+academy.brightconstellations.rewards=明るい星座
 academy.discidia.reward=Discidia
 academy.armara.reward=Armara
 academy.vicio.reward=Vicio
@@ -126,14 +126,14 @@ academy.gelu.reward=Gelu
 academy.ulteria.reward=Ulteria
 academy.vorux.reward=Vorux
 
-academy.coloredlenses.rewards=Colored Lenses
-academy.orangelens.reward=Ignition
-academy.yellowlens.reward=Break
-academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
+academy.coloredlenses.rewards=カラーレンズ
+academy.orangelens.reward=点火
+academy.yellowlens.reward=破壊
+academy.greenlens.reward=成長
+academy.redlens.reward=ダメージ
+academy.pinklens.reward=再生
 academy.bluelens.reward=Push
-academy.purplelens.reward=Spectral
+academy.purplelens.reward=スペクトラル
 
 academy.monsterspawneggs.rewards=Monster Spawn Eggs
 
@@ -161,7 +161,7 @@ academy.introstorage.desc=Learn about storage
 academy.introstorage.text=There's a lot of mods that allow you to store items easily.
 academy.introstorage.task=Enter the storage room
 
-academy.introgenstorage.title=General Storage
+academy.introgenstorage.title=一般ストレージ
 academy.introgenstorage.desc=Open Chests and Storage Crates
 academy.introgenstorage.text1=Iron Chests and Storage Crates are good for storing a large amount of items. They work just like regular chests, but they store a lot more.
 academy.introgenstorage.text2=They both come in tiers, with more expensive tiers storing more.
@@ -170,11 +170,11 @@ academy.introgenstorage.task2=Open Diamond Chest
 academy.introgenstorage.task3=Open Small Storage Chest
 academy.introgenstorage.task4=Open Large Storage Crate
 
-academy.introupgradechest.title=Chest Upgrades
+academy.introupgradechest.title=チェスト・アップグレード
 academy.introupgradechest.desc=Upgrade the Chest into an Iron Chest
 academy.introupgradechest.text=Open the Chest on the right and take out the Wood to Iron Chest Upgrade. Right click it on the Chest to upgrade it to an Iron Chest.
 
-academy.introbulkstorage.title=Bulk Storage
+academy.introbulkstorage.title=バルク・ストレージ
 academy.introbulkstorage.desc=Look at Storage Drawers
 academy.introbulkstorage.text1=Storage Drawers are great for storing a large amount of a single item.
 academy.introbulkstorage.text2=Right click a Drawer to store the item you are holding, and hold right click to store all of that item in your inventory.
@@ -184,7 +184,7 @@ academy.introbulkstorage.task1=Take some Cobblestone out of the Basic Drawer on 
 academy.introbulkstorage.task2=Take some Wood out of the Basic Drawer in the middle
 academy.introbulkstorage.task3=Put the Iron Nugget in the Compacting Drawer on the right, then take out the Iron Block
 
-academy.introdigitalstorage.title=Digital Storage
+academy.introdigitalstorage.title=デジタル・ストレージ
 academy.introdigitalstorage.desc=Look at Refined Storage
 academy.introdigitalstorage.text1=Refined Storage allows you to store a massive amount of a variety of items.
 academy.introdigitalstorage.text2=Items are stored in Disks, which themselves are stored in Disk Drives. You can access items in Disks by opening the Grid.
@@ -193,7 +193,7 @@ academy.introdigitalstorage.text4=The last quest gave you a Storage Disk. Open t
 academy.introdigitalstorage.task1=Open Disk Drive
 academy.introdigitalstorage.task2=Open Crafting Grid
 
-academy.introfluidstorage.title=Fluid Storage
+academy.introfluidstorage.title=液体ストレージ
 academy.introfluidstorage.desc=Empty a Bucket of Water
 academy.introfluidstorage.text1=Like there are mods that add ways to store items, there are also mods that add ways to store fluids.
 academy.introfluidstorage.text2=Blocks that store fluids usually have the word Tank in the name, so you can just search for "Tank" in JEI to find them all.
@@ -558,7 +558,7 @@ academy.itemducts.title=Latest Innovation in Moving Items
 academy.itemducts.desc=Make Itemducts
 academy.itemducts.text1=Itemducts move items along their path, in all directions. Items move through them at 1 block per second.
 academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
-academy.itemducts.task=Itemduct
+academy.itemducts.task=アイテムダクト
 
 academy.densevacuum.title=Priority Shipping
 academy.densevacuum.desc=Make Dense and Vacuum Itemducts
@@ -572,15 +572,15 @@ academy.basicfluiducts.title=Aqueduct
 academy.basicfluiducts.desc=Make Basic Fluiducts
 academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
 academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
-academy.basicfluiducts.task=Fluiduct
+academy.basicfluiducts.task=フルーイダクト
 
-academy.hardenedfluiducts.title=Lavaduct
-academy.hardenedfluiducts.desc=Make Hardened Fluiducts
+academy.hardenedfluiducts.title=ラバダクト
+academy.hardenedfluiducts.desc=硬化フルーイダクトを作る
 academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
-academy.hardenedfluiducts.task=Hardened Fluiduct
+academy.hardenedfluiducts.task=硬化フルーイダクト
 
 academy.servo.title=Make it Work
-academy.servo.desc=Make a Servo
+academy.servo.desc=サーボを作る
 academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
 academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
 academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
@@ -732,7 +732,7 @@ academy.fluidgrid.text3=Click a fluid in the system while you have an empty Buck
 academy.cable.desc=Make Cables
 academy.cable.text=Cables are used to connect devices to the Controller.
 
-academy.io.title=I/O
+academy.io.title=入出力
 academy.io.desc=Make an Importer and an Exporter
 academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
 academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
@@ -862,9 +862,9 @@ academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Or
 academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
 academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
 
-academy.redstonefurnace.title=Microwave
-academy.redstonefurnace.desc=Make a Redstone Furnace
-academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
+academy.redstonefurnace.title=電子レンジ
+academy.redstonefurnace.desc=レッドストーンかまどを作る
+academy.redstonefurnace.text1=レッドストーンかまどは RF を使用してアイテムを製錬します。
 academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
 
 academy.resourcefulfurnace.title=Experienced Cook
@@ -1855,7 +1855,7 @@ academy.slimechannel.text1=Slime Channels will push all entities (items and mobs
 academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
 academy.slimechannel.task=Any Slime Channel
 
-academy.craftingtableonastick.title=Crafting Table + Stick \= ?
+academy.craftingtableonastick.title=作業台 + 棒 \= ?
 academy.craftingtableonastick.desc=Make a Crafting Table on a Stick
 academy.craftingtableonastick.text=The Crafting Table on a Stick is exactly what it sounds like. Right click it to open a 3x3 crafting menu.
 
@@ -1873,8 +1873,8 @@ academy.mobgrindingutils.desc=Make a Mob Masher and Fan
 academy.mobgrindingutils.text1=Mob Grinding Utils adds a lot of special utility blocks that allow you to easily farm mobs.
 academy.mobgrindingutils.text2=Fans will blow mobs in the direction they're facing when given a Redstone signal, and they can be given upgrades to increase their working area.
 academy.mobgrindingutils.text3=The Mob Masher will damage any mobs that touch it when given a Redstone signal. You can give it upgrades to make it deal more damage and give it Looting.
-academy.mobgrindingutils.reward1=Looting
-academy.mobgrindingutils.reward2=Sharpness
+academy.mobgrindingutils.reward1=ドロップ増加
+academy.mobgrindingutils.reward2=ダメージ増加
 
 academy.solidifiedxp.title=Exactly What it Says
 academy.solidifiedxp.desc=Get some Solidified Experience
@@ -1928,8 +1928,8 @@ academy.tutorial.jei.25=左下のボタンをクリックしてブックマー�
 
 academy.tutorial.quests.title=チュートリアル：クエスト
 academy.tutorial.quests.1=クエスト・メニューを開く
-academy.tutorial.quests.2=この Mod パックは遊び方を教えるたくさんのクエストがあります。
-academy.tutorial.quests.3=開くには、インベントリの左上のボタンをクリックするか、クエストブックのアイテムを使用してください。
+academy.tutorial.quests.2=この Mod パックにはプレイの方法を教える多くのクエストがあります。
+academy.tutorial.quests.3=開くには、インベントリの左上のボタンをクリックするかクエストブックのアイテムを使用してください。
 academy.tutorial.quests.4=クエストブックのアイテム
 academy.tutorial.quests.5=クエストボタン
 academy.tutorial.quests.6=クエスト・メニュー
@@ -1956,23 +1956,23 @@ academy.tutorial.school.3=教習のスキップ
 academy.tutorial.school.4=チュートリアルを受けたくない場合、教習を退出するのボタンをクリックするとオーバーワールドに移動して通常のプレイが始まります。
 
 academy.tutorial.top.title=Tutorial\: The One Probe
-academy.tutorial.top.1=Blocks
+academy.tutorial.top.1=ブロック
 academy.tutorial.top.2=The mod "The One Probe" adds the blue box at the top of the screen.
 academy.tutorial.top.3=It will show details about the block you are looking at, such as its name, what mod it's from, and what kind of tool you need to break it.
 academy.tutorial.top.4=Viewing inventories
 academy.tutorial.top.5=You can hold sneak to see extra information about the block, such as the contents of inventories.
-academy.tutorial.top.6=Tanks
+academy.tutorial.top.6=タンク
 academy.tutorial.top.7=Sneaking will also allow you to see the amount of fluid in a container, as well as the maximum amount.
-academy.tutorial.top.8=Generators
+academy.tutorial.top.8=発電機
 academy.tutorial.top.9=Generators and machines will show the amount of RF currently inside them.
-academy.tutorial.top.10=Machines
+academy.tutorial.top.10=機械
 academy.tutorial.top.11=Some blocks like Furnaces and certain machines will also show you how close they are to being done with what they're doing.
 
-academy.tutorial.journeymap.title=Tutorial\: JourneyMap
-academy.tutorial.journeymap.1=The Minimap
+academy.tutorial.journeymap.title=チュートリアル：JourneyMap
+academy.tutorial.journeymap.1=ミニマップ
 academy.tutorial.journeymap.2=The mod "JourneyMap" adds a minimap to the top right of the menu.
 academy.tutorial.journeymap.3=Beneath it, you can see your current coordinates and the biome you are in.
-academy.tutorial.journeymap.4=Waypoints
+academy.tutorial.journeymap.4=ウェイポイント
 academy.tutorial.journeymap.5=You can hit the Create Waypoint button (B by default) to open the New Waypoint menu.
 academy.tutorial.journeymap.6=Here, you can choose its name, location (it defaults to where you are now), and color, as well as what dimensions it will show in.
 academy.tutorial.journeymap.7=Because Nether dimensions are Overworld dimensions divided by 8, waypoints that are in both will automatically adjust. That means you can place a Waypoint in one location and build a portal in the other, and they will link up\!
@@ -1995,7 +1995,7 @@ academy.tutorial.journeymap.19=Cave Layers button
 academy.overlay.welcome.title=FTB Academy にようこそ！
 academy.overlay.welcome.1=インベントリ内のクエストブックを右クリックして教習を始めましょう！
 
-academy.overlay.storage.title=Storage
+academy.overlay.storage.title=ストレージ
 academy.overlay.storage.1=Go to the Storage Area
 academy.overlay.storage.2=Open the different storage blocks
 academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
@@ -2024,7 +2024,7 @@ academy.overlay.tech.11=Place the Leadstone Fluxduct on the Magenta Wool
 academy.overlay.tech.12=Place the Redstone Furnace on the Lapis Lazuli Block
 academy.overlay.tech.13=Take 4 Iron Ore from the Ore Chest and smelt them in the Redstone Furnace
 
-academy.overlay.as.title=Astral Sorcery
+academy.overlay.as.title=アストラル・ソーサリー
 academy.overlay.as.1=Go to the Astral Sorcery Area
 academy.overlay.as.2=Take items out of the chest
 academy.overlay.as.3=Place the Crafting Table on the White Wool
@@ -2034,7 +2034,7 @@ academy.overlay.as.6=Place the Luminous Crafting Table on the Chiseled Quartz Bl
 academy.overlay.as.7=Craft some Illumination Powder (See JEI for the recipe)
 academy.overlay.as.8=Right click the Luminous Crafting Table with the Resonating Wand to start the crafting process
 
-academy.overlay.botania.title=Botania
+academy.overlay.botania.title=ボタニア
 academy.overlay.botania.1=Go to the Botania Area
 academy.overlay.botania.2=Take items out of the chest
 academy.overlay.botania.3=Craft the Flowers into Petals (See JEI for the recipe)
